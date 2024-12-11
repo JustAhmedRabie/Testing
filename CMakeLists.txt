@@ -8,4 +8,6 @@ add_executable(Testing
         file1.c
         file1.h
         file2.c
-        file2.h)
+        file2.h
+        file3.c
+        file3.h)
