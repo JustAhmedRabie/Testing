@@ -4,3 +4,7 @@ cmake-build-debug/
 output/
 *.exe
 build/
+*.layout
+*.depend
+bin/
+obj/
