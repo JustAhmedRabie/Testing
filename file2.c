@@ -3,8 +3,11 @@
 //
 
 #include "file2.h"
+#include <stdio.h>
 
 int add(int a, int b)
 {
+    printf("anything");
     return a+b;
 }
+
